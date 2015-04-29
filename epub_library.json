@@ -253,7 +253,7 @@
     "rootUrl": "epub_content/epub30-test-0211-20140611"
   },
   {
-    "title": "epub30-test-0220-20140611",
+    "title": "epub_content/epub30-test-0220-20140611",
     "author": "Markus Gylling",
     "author": "Vincent Gros",
     "packagePath": "EPUB/package.opf",
