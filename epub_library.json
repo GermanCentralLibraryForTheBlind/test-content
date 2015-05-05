@@ -1,5 +1,12 @@
 [
   {
+    "title": "Sprachpraxis UT",
+    "author": "Hufnagl, Gerhard u.a.",
+    "coverHref": "Sprachpraxis_UT/EPUB/Cover.jpg",
+    "packagePath": "Sprachpraxis_UT/EPUB/content.opf",
+    "rootUrl": "epub_content/Sprachpraxis_UT/"
+  },
+  {
     "title": "Zukunft des Publizierens",
     "author": "Petra von Cronenburg",
     "packagePath": "zukunft_des_publizierens_neu/OEBPS/content.opf",
