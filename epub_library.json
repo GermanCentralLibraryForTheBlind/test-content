@@ -7,6 +7,24 @@
     "rootUrl": "epub_content/Sprachpraxis_UT/"
   },
   {
+    "title": "EDUPUB samples - Accessible Image Sample Book",
+    "author": "Matt Garrish",
+    "packagePath": "EPUB/package.opf",
+    "rootUrl": "epub_content/Accessible_Image_Sample_Book/"
+  },
+  {
+    "title": "EDUPUB samples - Linear Algebra",
+    "author": "Matt Garrish",
+    "packagePath": "EPUB/package.opf",
+    "rootUrl": "epub_content/edupub_linear-algebra/"
+  },
+  {
+    "title": "EDUPUB samples - Structure Sample 1",
+    "author": "Matt Garrish",
+    "packagePath": "EPUB/package.opf",
+    "rootUrl": "epub_content/edupub_structure-sample-01/"
+  },
+  {
     "title": "Zukunft des Publizierens",
     "author": "Petra von Cronenburg",
     "packagePath": "zukunft_des_publizierens_neu/OEBPS/content.opf",
@@ -242,10 +260,10 @@
     "rootUrl": "epub_content/epub30-test-0211-20140611"
   },
   {
-    "title": "epub30-test-0220-20140611",
+    "title": "epub30-test-0300-20141110",
     "author": "Markus Gylling",
     "author": "Vincent Gros",
     "packagePath": "EPUB/package.opf",
-    "rootUrl": "epub_content/epub30-test-0220-20140611"
+    "rootUrl": "epub_content/epub30-test-0300-20141110"
   }
 ]
