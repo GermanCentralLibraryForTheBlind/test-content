@@ -37,6 +37,13 @@ p{
     padding:0;
 }
 
+.tocol{
+
+    margin:1em;
+    padding:0;
+    color:red;
+}
+
 
 li{
     margin-top:1em;
